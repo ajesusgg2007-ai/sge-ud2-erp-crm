@@ -8,6 +8,8 @@ Que el FSF se llame así no significa que sea completamente gratuito, ya que ten
 La edición comunity, a la hora de poner una licencia, se usa una de codigo abierto. Mientras que la enterprise, Propietaria. La community cubre funcionalidades básicas del programa, y la
 enterprise, funciones más avanzadas.
 
+Palabra del día: Compañeros
+
 
 Soluciones Candidatas Evaluadas
 
@@ -16,3 +18,5 @@ Opción A: Odoo Community Edition + Módulos de Farmacia / Lotes.
 Opción B: Odoo Enterprise SaaS.
 
 Opción C: ERP Propietario Especializado en Sector Farmacéutico, Solución vertical
+
+ .
